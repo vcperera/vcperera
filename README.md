@@ -41,10 +41,3 @@ I focus on turning complex ideas into tangible, value-driven digital products.
 * **Finance & Sales Ops:** TradingView, QuickBooks, ZoomInfo
 
 ---
-
-## 🤝 Connect
-
-*   **LinkedIn:** https://www.linkedin.com/in/vc-perera/
-*   **Portfolio/Website:** vcperera.vercel.app
-
----
