@@ -46,6 +46,6 @@ I focus on turning complex ideas into tangible, value-driven digital products.
 ## 🤝 Connect
 
 *   **LinkedIn:** https://www.linkedin.com/in/vc-perera/
-*   **Portfolio/Website:** Coming soon...
+*   **Portfolio/Website:** vcperera.vercel.app
 
 ---
