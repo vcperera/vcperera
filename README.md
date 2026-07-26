@@ -39,7 +39,6 @@ I focus on turning complex ideas into tangible, value-driven digital products.
 
 ### 📈 Business, Finance & EdTech
 * **Finance & Sales Ops:** TradingView, QuickBooks, ZoomInfo
-* **Education & Learning:** Superprof, Coursera
 
 ---
 
