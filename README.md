@@ -1,12 +1,12 @@
 # Hey there! I'm Vishal Perera 👋
 
-### 🚀 Aerospace Engineer | Tech Enthusiast | STEM Educator | Executive Assistant
+### 🚀 Aerospace Engineer | Tech Enthusiast | STEM Educator
 📍 Based in Dubai, UAE
 
 I am a full-time **Design Engineer** creating products for Aerospace OEMs by day, 
 and a passionate **STEM Educator & Tech Enthusiast** by night. 
-With a diverse background spanning Engineering, Economics & Finance 
-I focus on turning complex ideas into tangible, value-driven digital products.
+With a diverse background spanning Engineering, Commerce & Tech 
+I focus on turning complex ideas into tangible, value-driven products.
 
 ---
 
@@ -14,6 +14,7 @@ I focus on turning complex ideas into tangible, value-driven digital products.
 
 *   **💼 Streamline & Automate Daily Workflows
 *   **🌱 Build out tools aiding Visual Learning of Fundamentals across diverse subjects.
+*   **🚀 Work with cutting edge technology and redefine what's possible.
 
 ---
 
@@ -30,7 +31,7 @@ I focus on turning complex ideas into tangible, value-driven digital products.
 * **3D Printing & Manufacturing:** Bambu Lab, Stratasys
 
 ### 🤖 AI & Productivity
-* **AI & Automation:** Claude AI, Google AI Studio
+* **AI & Automation:** Claude, Deepseek, Notebook LLM
 * **Productivity Suites:** Google Workspace, Microsoft Office 365
 
 ### 🎨 Design & Media
