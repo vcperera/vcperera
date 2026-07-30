@@ -3,10 +3,7 @@
 ### 🚀 Aerospace Engineer | Tech Enthusiast | STEM Educator
 📍 Based in Dubai, UAE
 
-I am a full-time **Design Engineer** creating products for Aerospace OEMs by day, 
-and a passionate **STEM Educator & Tech Enthusiast** by night. 
-With a diverse background spanning Engineering, Commerce & Tech 
-I focus on turning complex ideas into tangible, value-driven products.
+I am a full-time **Design Engineer** creating products for Aerospace OEMs by day, and a passionate **STEM Educator & Tech Enthusiast** by night. With a diverse background spanning Engineering, Commerce & Tech I focus on turning complex ideas into tangible, value-driven products.
 
 ---
 
